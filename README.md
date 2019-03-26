@@ -8,7 +8,7 @@ This application is under development and in progress.
 
 Simply it use barcode from camera to get code then make simple request to get information.
 ```
-Camer premission is needed to make barcode working.
+Camera premission is needed to make barcod working .
 ```
 
 
